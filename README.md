@@ -1,4 +1,3 @@
-[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/OVyX-k2n)
 # 泰山職訓前端班番茄鐘作業
 
 **請將作業上傳到自己的 GitHub 儲存庫**  
@@ -38,4 +37,5 @@
 若使用 GitHub 網頁進行 commit 會依次數扣分
 
 ## 作業連結
-- [GitHub](https://GitHub.com/)
+- [GitHub](https://github.com/Page818/pomodoro)
+- [pomodoro](https://page818.github.io/pomodoro/)
